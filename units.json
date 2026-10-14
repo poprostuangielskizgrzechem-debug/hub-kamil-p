@@ -8,11 +8,11 @@
     "label": "Focus 3 - Unit 2"
   },
   {
-    "id": "focus3-unit4",
-    "label": "Focus 3 - Unit 4"
-  },
-  {
     "id": "focus3-unit3",
     "label": "Focus 3 - Unit 3"
+  },
+  {
+    "id": "focus3-unit4",
+    "label": "Focus 3 - Unit 4"
   }
 ]
